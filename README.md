@@ -17,3 +17,8 @@ yazın.
 Venv yüklemeniz lazım, bilmiyorsanız bir AI uygulamasından yardım alın.
 
 You need to install Venv, if you don't know, get help from an AI application.
+
+
+"Sites" diye bir klasör açın.
+
+Open a folder called "Sites".
